@@ -1,4 +1,4 @@
-var number = prompt("wanna know your grade?");
+let number = prompt("wanna know your grade?");
 
 if(number >= 80 && number <= 100){
     document.write("A+");
